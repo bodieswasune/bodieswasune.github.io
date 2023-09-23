@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodieswasune.github.io/sitemap.xml
